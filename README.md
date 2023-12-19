@@ -1,6 +1,8 @@
 # AsciiDuinoDisplay
 ![image](./pic/AsciiDuinoDisplay.gif)
 
+https://www.youtube.com/shorts/d5-irlc9g9A
+
 ## Introduction
 AsciiDuinoDisplay is an innovative project dedicated to bringing ASCII art to life on Arduino UNO. This project harnesses the simplicity of ASCII art and the versatility of Arduino to create dynamic, visually appealing displays using just characters. It's perfect for hobbyists, educators, and anyone interested in exploring the intersection of art and technology.
 
