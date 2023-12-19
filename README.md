@@ -38,6 +38,7 @@ Contributions to AsciiDuinoDisplay are always welcome. Whether it's bug fixes, f
 
 ## Acknowledgments
 - Thanks to the Arduino community for continuous inspiration and support. (http://busyducks.com/wp_4_1/2015/11/16/ascii-art-arduino-pinouts/)
+- Github(https://github.com/busyDuckman/ascii-art-arduinos)
 - Special thanks to [ASCII Art Archive](https://www.asciiart.eu/) for providing a wide array of ASCII art examples.
 
 ---
